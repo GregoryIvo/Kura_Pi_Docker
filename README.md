@@ -36,4 +36,4 @@ The script was tested with a raspberry pi 2 running:
 
 Sucess critera: flash LED attached to GPIO with Kura wires:  
 
-<img title="" src="file:///Users/eurotech/Desktop/Kura_Pi_Docker/Assets/Image.gif" alt="Image.gif" data-align="center">
+<img title="" src="Assets/Image.gif" alt="Image.gif" data-align="center">
